@@ -5,14 +5,14 @@
 This website is maintained by the GitHub repository at [https://github.com/slimreadingclub/slimreadingclub.github.io](https://github.com/slimreadingclub/slimreadingclub.github.io). If you have any questions or suggestions of the reading club series, please open an issue to the repo. If you would like to join our reading club or present your favorite paper, please open a pull request.
 
 Organizers:
-Ziyi (Francis) Yin, ziyi.yin@gatech.edu    
-Rafael Orozco, rorozco@gatech.edu    
-Thomas J. Grady II, tgrady@gatech.edu    
+Shiqin Zeng, szeng44@gatech.edu    
+Huseyin Tuna Erdinc, herdinc3@gatech.edu    
+Zijun (Venice) Deng, zdeng78@gatech.edu  
 Felix J. Herrmann, felix.herrmann@gatech.edu    
 
-### The schedule for Spring 2022 SLIM Reading Club Schedule is:
+### The schedule for Spring 2025 SLIM Reading Club Schedule is:
 
-**Friday 10am January 28 Generative Classifiers Part 1/3**		        
+**TBD**		        
 Paper: [Training Normalizing Flows with the Information Bottleneck for Competitive Generative Classification](https://arxiv.org/pdf/2001.06448.pdf)  
 Presenter: Ziyi (Francis) Yin     
 Outline:    
