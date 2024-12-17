@@ -2,7 +2,7 @@
 
 [SLIM Group](https://slim.gatech.edu/) organizes the reading club scheduled for ****. Students present a paper relevant to the SOTA research pratices in the fields of [machine learning, uncertainty quantification, variational inference, and inverse problems]. These presentations are usually informal and participants are encouraged to take part in the discussion and share experiences with specific domain knowledge. 
 
-This website is maintained by the GitHub repository at [[https://github.com/slimreadingclub/slimreadingclub.github.io](https://shiqinzeng.github.io/slimreadingclub_2025/)](https://github.com/slimreadingclub/slimreadingclub.github.io). If you have any questions or suggestions of the reading club series, please open an issue to the repo. If you would like to join our reading club or present your favorite paper, please open a pull request.
+This website is maintained by the GitHub repository at [[(https://github.com/shiqinzeng/slimreadingclub_2025)](https://github.com/shiqinzeng/slimreadingclub_2025)](https://shiqinzeng.github.io/slimreadingclub_2025/)](https://github.com/slimreadingclub/slimreadingclub.github.io). If you have any questions or suggestions of the reading club series, please open an issue to the repo. If you would like to join our reading club or present your favorite paper, please open a pull request.
 
 Organizers:
 Shiqin Zeng, szeng44@gatech.edu    
