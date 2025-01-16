@@ -14,7 +14,7 @@ Felix J. Herrmann, felix.herrmann@gatech.edu
 
 **Friday 10:00 am Jan 17th, Coda C1303 Glenwood**		        
 Paper: [Variational prior replacement in Bayesian inference and inversion](https://arxiv.org/pdf/2406.04072)  
-Presenter: Huseyin Tuna Erdinc
+Presenter: Huseyin Tuna Erdinc.
 
 Outline:    
 -  Motivation for prior replacement
