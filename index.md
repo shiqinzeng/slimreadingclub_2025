@@ -16,6 +16,8 @@ Felix J. Herrmann, felix.herrmann@gatech.edu
 Paper: [Variational prior replacement in Bayesian inference and inversion](https://arxiv.org/pdf/2406.04072)  
 Presenter: Huseyin Tuna Erdinc.
 
+Slides can be found [here](https://drive.google.com/file/d/1Spgt3Lt5yLEeNb4RrAUY-2_lRk-5PTIs/view?usp=drive_link).  
+
 Outline:    
 -  Motivation for prior replacement
 -  Recap on Bayesian Inference  
@@ -23,5 +25,4 @@ Outline:
 -  Classic variational inference and variational prior inference
 -  Physically structured variational inference (PSVI)	       
 -  Results on FWI
-Presentation link is [here](https://drive.google.com/file/d/1Spgt3Lt5yLEeNb4RrAUY-2_lRk-5PTIs/view?usp=drive_link).  
 
