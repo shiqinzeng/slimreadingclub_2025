@@ -23,4 +23,5 @@ Outline:
 -  Classic variational inference and variational prior inference
 -  Physically structured variational inference (PSVI)	       
 -  Results on FWI
+Presentation link is [here](https://drive.google.com/file/d/1Spgt3Lt5yLEeNb4RrAUY-2_lRk-5PTIs/view?usp=drive_link).  
 
