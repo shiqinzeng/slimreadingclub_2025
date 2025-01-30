@@ -31,7 +31,7 @@ Paper: [Learning spatiotemporal dynamics with a
 pretrained generative model](https://www.nature.com/articles/s42256-024-00938-z)  
 Presenter: Shiqin Zeng.
 
-Related materials can be found [Denoising Trajectory Details](https://drive.google.com/file/d/1qxckIetiS_JsRAnSqZhLttOvxr0xyco-/view?usp=sharing), [CO₂ Reservoir Simulation Data](https://docs.google.com/presentation/d/1TMvTjOMUspDJkaW1eeQ3oi6aNFFJ7HMR/edit?usp=drive_link&ouid=107090150198155230870&rtpof=true&sd=true).
+Related materials can be found [Denoising trajectory details](https://drive.google.com/file/d/1qxckIetiS_JsRAnSqZhLttOvxr0xyco-/view?usp=sharing), [Results on CO₂ reservoir simulation data](https://docs.google.com/presentation/d/1TMvTjOMUspDJkaW1eeQ3oi6aNFFJ7HMR/edit?usp=drive_link&ouid=107090150198155230870&rtpof=true&sd=true).
 
 
 Outline:    
