@@ -48,3 +48,18 @@ Outline:
 
 - Results on CO₂ Reservoir Simulation Data
 
+**Friday 10:00 am April 11, Coda C1303 Glenwood**	
+Paper: [Gradient-free generation for hard-constrained systems](https://www.amazon.science/publications/gradient-free-generation-for-hard-constrained-systems)
+Presenter: Zijun (Venice) Deng.
+
+Outline:
+-  Why Gradient-Free?
+   - Motivation for hard-constrained generation
+   - Limitations of gradient-based methods
+- ECI Sampling
+  - Extrapolate → Correct → Interpolate
+- Handling Constraints
+  - Value & region constraints
+  - Controlling diversity with resampling
+- Results
+  - Performance on PDEs (Stokes, NS, etc.)
