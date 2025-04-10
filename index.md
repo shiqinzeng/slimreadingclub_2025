@@ -50,6 +50,7 @@ Outline:
 
 **Friday 10:00 am April 11, Coda C1303 Glenwood**	
 Paper: [Gradient-free generation for hard-constrained systems](https://www.amazon.science/publications/gradient-free-generation-for-hard-constrained-systems)
+
 Presenter: Zijun (Venice) Deng.
 
 Outline:
